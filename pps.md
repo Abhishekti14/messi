@@ -36,6 +36,7 @@ return 0;
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhi.png)
 
 ---
@@ -53,6 +54,7 @@ return 0;
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhis.png)
 ___
 4.**_CELSIUS TO FAHRENHEIT_**
