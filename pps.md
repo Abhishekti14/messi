@@ -21,6 +21,7 @@ return 0;
 
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/yup.png)
 
 ---
@@ -74,6 +75,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhish.png)
 ___
 5.**_AREA OF CIRCLE AND PERIMETER OF CIRCLE_**
@@ -93,6 +95,7 @@ return 0;
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishe.png)
 ___
 6.**_SWAP TWO NUMBERS_**
@@ -112,6 +115,7 @@ return 0;
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishek.png)
 ___
 7.**_ODD,EVEN_**
@@ -130,6 +134,7 @@ return 0;
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishekt.png)
 ___
 8.**_FACTORIAL_**
@@ -148,6 +153,7 @@ return 0;
 }       
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishekti.png)
 ___
 9.**_REVERSE NUMBER_**
@@ -169,6 +175,7 @@ ___
     }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishektiw.png)
 ___
 10.**_FIZZBUZZ_**
@@ -196,6 +203,7 @@ int main(void)
 } 
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishektiwa.png)
 ___
 11.**_SWITCHCASE WEEKDAYS_**
@@ -242,6 +250,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishektiwar.png)
 ___
 12.**_CALCULATOR_**
@@ -276,6 +285,7 @@ int main() {
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishektiwari.png)
 ___
 13.**_LEAP YEAR_**
@@ -305,6 +315,7 @@ else
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/ab.png)
 ___
 14.**_PRIME NUMBER_**
@@ -336,6 +347,7 @@ int main()
     }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abh.png)
 ___
 15.**_PALLINDROME_**
@@ -362,6 +374,7 @@ ___
     }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/a.png)
 ___
 16.**_FIBONACCI SERIES_**
@@ -395,6 +408,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/B.png)
 ___
 17.**_ARRAY-1D_**
@@ -424,6 +438,7 @@ void  main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/12.png)
 ___
 18.**_ARRAY-2D_**
@@ -455,6 +470,7 @@ int main(){
 
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/11.png)
 ___
 19.**_ADDICTION OF 2 MATRICES_**
@@ -493,6 +509,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/10.png)
 ___
 20.**_TRANSPOSE OF MATRICES_**
@@ -527,6 +544,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/9.png)
 ___
 21.**_SUBTRACTION OF MATRICES_**
@@ -565,6 +583,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/8.png)
 ___
 22.**_MULTIPLICATION OF MATRICES_**
@@ -622,6 +641,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/7.png)
 ___
 23.**_FIND SQUARE OF NUMBERS_**
@@ -647,6 +667,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/6.png)
 ___
 
@@ -684,6 +705,7 @@ void swap(int a, int b)
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/5.png)
 ___
 25.**_SWAPPING=CALL BY REFERENCE_**
@@ -709,6 +731,7 @@ scanf("%d%d",&num1,&num2);
     }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/4.png)
 ___
 26.**_FACTORIAL USING RECURSION_**
@@ -732,6 +755,7 @@ long int multiplyNumbers(int n)
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/3.png)
 ___
 27.**_FIBONACCI USING RECURSION_**
@@ -763,6 +787,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/2.png)
 ___
 28.**_STRUCTURE_**
@@ -801,6 +826,7 @@ int main()
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/1.png)
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/0.png)
 ___
@@ -819,6 +845,7 @@ return 0;
 }
 ```
 **OUTPUT**
+
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/20.png)
 
 
