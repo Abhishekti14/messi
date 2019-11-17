@@ -9,7 +9,7 @@
 **ROLL NO**-1915005
 
 ---
-1.**_HELLO WORLD_**
+1.**PROGRAM FOR_HELLO WORLD_**
 ```c
 
 #include<stdio.h>
@@ -26,7 +26,7 @@ return 0;
 
 ---
 
-2.**_ADDRESS_**
+2.**_PROGRAM FOR ADDRESS_**
 ```c
 #include<stdio.h>
 int main()
@@ -41,7 +41,7 @@ return 0;
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhi.png)
 
 ---
-3.**_SUM OF TWO NUMBERS_**
+3.**_PROGRAM FOR SUM OF TWO NUMBERS_**
 ```c
 #include<stdio.h>
 int main()
@@ -58,7 +58,7 @@ return 0;
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhis.png)
 ___
-4.**_CELSIUS TO FAHRENHEIT_**
+4.**_PROGRAM FOR CELSIUS TO FAHRENHEIT_**
 ```c
 #include<stdio.h>
 
@@ -78,7 +78,7 @@ int main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhish.png)
 ___
-5.**_AREA OF CIRCLE AND PERIMETER OF CIRCLE_**
+5.**_PROGRAM FOR AREA OF CIRCLE AND PERIMETER OF CIRCLE_**
 ```c
 #include<stdio.h>
 #define PI 3.14
@@ -98,7 +98,7 @@ return 0;
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishe.png)
 ___
-6.**_SWAP TWO NUMBERS_**
+6.**_PROGRAM FOR SWAP TWO NUMBERS_**
 ```c
 #include <stdio.h>
 int main()
@@ -118,7 +118,7 @@ return 0;
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishek.png)
 ___
-7.**_ODD,EVEN_**
+7.**_PROGRAM FOR ODD,EVEN_**
 ```c
 #include <stdio.h>
 int main()
@@ -137,7 +137,7 @@ return 0;
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishekt.png)
 ___
-8.**_FACTORIAL_**
+8.**_PROGRAM FOR FACTORIAL_**
 ```c
 #include<stdio.h>  
 int main()    
@@ -156,7 +156,7 @@ return 0;
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishekti.png)
 ___
-9.**_REVERSE NUMBER_**
+9.**_PROGRAM FOR REVERSE NUMBER_**
 ```c
     #include <stdio.h>
     int main()
@@ -178,7 +178,7 @@ ___
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishektiw.png)
 ___
-10.**_FIZZBUZZ_**
+10.**_PROGRAM FOR FIZZBUZZ_**
 ```c
 #include <stdio.h> 
   
@@ -206,7 +206,7 @@ int main(void)
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishektiwa.png)
 ___
-11.**_SWITCHCASE WEEKDAYS_**
+11.**_PROGRAM FOR SWITCHCASE WEEKDAYS_**
 ```c
 #include <stdio.h>
 
@@ -253,7 +253,7 @@ int main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishektiwar.png)
 ___
-12.**_CALCULATOR_**
+12.**_PROGRAM FOR CALCULATOR_**
 ```c
 # include <stdio.h>
 int main() {
@@ -288,7 +288,7 @@ int main() {
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abhishektiwari.png)
 ___
-13.**_LEAP YEAR_**
+13.**_PROGRAM FOR LEAP YEAR_**
 ```c
 
 #include<stdio.h>
@@ -318,7 +318,7 @@ else
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/ab.png)
 ___
-14.**_PRIME NUMBER_**
+14.**_PROGRAM FOR PRIME NUMBER_**
 ```c
 #include <stdio.h>
 int main()
@@ -350,7 +350,7 @@ int main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/abh.png)
 ___
-15.**_PALLINDROME_**
+15.**_PROGRAM FOR PALLINDROME_**
 ```c
 #include <stdio.h>
     int main()
@@ -377,7 +377,7 @@ ___
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/a.png)
 ___
-16.**_FIBONACCI SERIES_**
+16.**_PROGRAM FOR FIBONACCI SERIES_**
 ```c
 #include <stdio.h>
 int main()
@@ -411,7 +411,7 @@ int main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/B.png)
 ___
-17.**_ARRAY-1D_**
+17.**_PROGRAM FOR ARRAY-1D_**
 ```c
 #include <stdio.h>  
   
@@ -441,7 +441,7 @@ void  main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/12.png)
 ___
-18.**_ARRAY-2D_**
+18.**_PROGRAM FOR ARRAY-2D_**
 ```c
 #include<stdio.h>
 int main(){
@@ -473,7 +473,7 @@ int main(){
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/11.png)
 ___
-19.**_ADDICTION OF 2 MATRICES_**
+19.**_PROGRAM FOR ADDICTION OF 2 MATRICES_**
 ```c
 #include <stdio.h>
  
@@ -512,7 +512,7 @@ int main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/10.png)
 ___
-20.**_TRANSPOSE OF MATRICES_**
+20.**_PROGRAM FOR TRANSPOSE OF MATRICES_**
 ```c
 #include <stdio.h>
  
@@ -547,7 +547,7 @@ int main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/9.png)
 ___
-21.**_SUBTRACTION OF MATRICES_**
+21.**_PROGRAM FOR SUBTRACTION OF MATRICES_**
 ```c
 #include <stdio.h>
  
@@ -586,7 +586,7 @@ int main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/8.png)
 ___
-22.**_MULTIPLICATION OF MATRICES_**
+22.**_PROGRAM FOR MULTIPLICATION OF MATRICES_**
 ```c
 #include <stdio.h>
  
@@ -644,7 +644,7 @@ int main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/7.png)
 ___
-23.**_FIND SQUARE OF NUMBERS_**
+23.**_PROGRAM FOR FIND SQUARE OF NUMBERS_**
 ```c
 #include <stdio.h>
 
@@ -671,7 +671,7 @@ int main()
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/6.png)
 ___
 
-24.**_SWAPPING=CALL BY VALUE_**
+24.**_PROGRAM FOR SWAPPING=CALL BY VALUE_**
 ```c
 #include <stdio.h>
  
@@ -708,7 +708,7 @@ void swap(int a, int b)
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/5.png)
 ___
-25.**_SWAPPING=CALL BY REFERENCE_**
+25.**_PROGRAM FOR SWAPPING=CALL BY REFERENCE_**
 ```c
     #include <stdio.h>
     void swap(int *n1, int *n2);
@@ -734,7 +734,7 @@ scanf("%d%d",&num1,&num2);
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/4.png)
 ___
-26.**_FACTORIAL USING RECURSION_**
+26.**_PROGRAM FOR FACTORIAL USING RECURSION_**
 ```c
 #include <stdio.h>
 long int multiplyNumbers(int n);
@@ -758,7 +758,7 @@ long int multiplyNumbers(int n)
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/3.png)
 ___
-27.**_FIBONACCI USING RECURSION_**
+27.**_PROGRAM FOR FIBONACCI USING RECURSION_**
 ```c
 #include <stdio.h>
 int main()
@@ -790,7 +790,7 @@ int main()
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/2.png)
 ___
-28.**_STRUCTURE_**
+28.**_PROGRAM FOR STRUCTURE_**
 ```c
 #include <stdio.h>
 struct student
@@ -830,7 +830,7 @@ int main()
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/1.png)
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/0.png)
 ___
-29.**_POINTER_**
+29.**_PROGRAM FOR POINTER_**
 ```c
 #include<stdio.h>
 int main()
