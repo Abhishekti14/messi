@@ -847,6 +847,47 @@ return 0;
 **OUTPUT**
 
 ![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/20.png)
+___
+30.**_PROGRAM FOR POINTER IN ARRAY_**
+```c
+#include<stdio.h> 
+  
+int main() 
+{ 
+  int arr[5] = { 1, 2, 3, 4, 5 }; 
+  int *ptr = arr; 
+  
+  printf("%p\n", ptr); 
+  return 0; 
+} 
+```
+**OUTPUT**
+
+![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/c.png)
+___
+31.**_PROGRAM FOR POINTER IN FUNCTION_**
+```c
+#include <stdio.h> 
+
+void fun(int a) 
+{ 
+    printf("Value of a is %d\n", a); 
+} 
+  
+int main() 
+{  
+    void (*fun_ptr)(int) = fun;
+  
+    fun_ptr(10);   
+  
+    return 0;
+}
+```
+**OUTPUT**
+
+![LCO](https://raw.githubusercontent.com/Abhishekti14/messi/master/ca.png)
+___
+
 
 
 
