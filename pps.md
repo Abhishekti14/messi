@@ -1,6 +1,6 @@
 ![LCO](https://www.gndec.ac.in/logo.png)
 
-#            MARKDOWN SHEET
+#           PROGRAMING FOR PROBLEM SOLVING
 ---
 **NAME**-Abhishek Tiwari
 
@@ -9,7 +9,7 @@
 **ROLL NO**-1915005
 
 ---
-1.**PROGRAM FOR_HELLO WORLD_**
+1.**PROGRAM FOR HELLO WORLD**
 ```c
 
 #include<stdio.h>
